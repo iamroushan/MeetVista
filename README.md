@@ -38,3 +38,8 @@ A video conferencing tool which is built using latest Next.js and Typescript.It 
 
 and many more, including code architecture and reusability.
 
+# Screenshots
+![Screenshot (39)](https://github.com/iamroushan/MeetVista/assets/138482185/32dd22fd-643b-4339-9ba8-7878ac35d634)
+![Screenshot (40)](https://github.com/iamroushan/MeetVista/assets/138482185/cf52aa23-52dd-48d8-9a6f-02602670c6f2)
+![Screenshot (41)](https://github.com/iamroushan/MeetVista/assets/138482185/1cec2265-61c9-4b1a-9e44-60269e324117)
+![Screenshot (42)](https://github.com/iamroushan/MeetVista/assets/138482185/0e5d4b81-2e64-4b5b-ab44-9e778416bb1a)
